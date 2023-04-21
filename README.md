@@ -13,4 +13,4 @@ Nous avons utilisé la couleur verte car elle symbolise la nature, la végétati
 
 La couleur de chaque Boid est définie aléatoirement car nous avons estimé qu'il n'était pas possible de classer chaque mot comme négatif et positif car chacun peut avoir un bon ou mauvais impact.
 
-La taille des polices oscille entre 20 et 25 pixels, nous avons mis un paramètre random. Le changement de taille de police sert à montrer que chaque action à un impact plus ou moins grand sur notre planète.
+La taille des polices oscille entre 10 et 25 pixels, nous avons mis un paramètre random. Le changement de taille de police sert à montrer que chaque action à un impact plus ou moins grand sur notre planète.
